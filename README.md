@@ -1,9 +1,9 @@
- IDEAL SAMPLING
- AIM:
+ # IDEAL SAMPLING
+ # AIM:
  To perform construction and reconstruction of ideal sampling using python code.
  APPARATUS REQUIRED:
  IDE python with scipy and numpy
- PROGRAM:
+ # PROGRAM:
  import numpy as np
  import matplotlib.pyplot as plt
  from scipy.signal import resample
@@ -42,9 +42,9 @@ basefmt='r-', label='Sampled Signal (fs = 100 Hz)')
  plt.grid(True)
  plt.legend()
  plt.show()
-OUTPUT:
+# OUTPUT:
 ![Screenshot 2025-03-30 091529](https://github.com/user-attachments/assets/477f6fb4-5f2e-41af-a1cb-b18ea8c139f7)
- RESULT:
+ # RESULT:
  Thus the given construction and reconstruction of ideal sampling has been verified
  successfully
 
