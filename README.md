@@ -1,7 +1,7 @@
  # IDEAL SAMPLING
  # AIM:
  To perform construction and reconstruction of ideal sampling using python code.
- APPARATUS REQUIRED:
+ # APPARATUS REQUIRED:
  IDE python with scipy and numpy
  # PROGRAM:
  ~~~
